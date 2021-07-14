@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box ;
+}
+
+@import 'scss/colors';
+@import 'scss/typography';
+
+
+body {
+    width: 100%;
+
+    background-color: #E6E8E8;
+}
+
+.border {
+    border: 1px solid red;
+}
+
+@import 'scss/spacing';
+@import 'scss/layout';
