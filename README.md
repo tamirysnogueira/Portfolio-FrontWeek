@@ -40,7 +40,7 @@
 <br>
 
 ### 📝 Licença
-O projeto contém a licença MIT. Para mais informações acesse [LICENSE]().
+O projeto contém a licença MIT. Para mais informações acesse [LICENSE](https://github.com/tamirysnogueira/Portfolio-FrontWeek/blob/master/LICENSE).
 
 <br>
 
